@@ -54,7 +54,8 @@
         ], 
         "Security": [
             "autoupdate.json", 
-            "updatecheck.json"
+            "updatecheck.json",
+            "https.json"
         ], 
         "Addons": [
             "canvasblocker.json", 
