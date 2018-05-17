@@ -13,7 +13,10 @@
       "browser.newtabpage.activity-stream.telemetry": false,
       "browser.newtabpage.activity-stream.telemetry.ping.endpoint": "",
       "browser.newtabpage.activity-stream.telemetry.ut.events": false,
-      "browser.newtabpage.activity-stream.prerender": false
+      "browser.newtabpage.activity-stream.prerender": false,
+      "browser.newtabpage.activity-stream.showSponsored": false,
+      "browser.newtabpage.activity-stream.telemetry.ut.events": false,
+      "browser.newtabpage.activity-stream.tippyTop.service.endpoint": ""      
     }
   }
 ]
