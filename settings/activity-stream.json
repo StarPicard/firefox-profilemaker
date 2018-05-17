@@ -1,1 +1,19 @@
 
+[
+  {
+    "name": "activity-stream",
+    "type": "boolean",
+    "initial": true,
+    "label": "Disable the activity stream",
+    "help_text": "The <a href=\"https://wiki.mozilla.org/Firefox/Activity_Stream\">activity stream</a> may leak data that identifies you or is otherwise sensitive to you.",
+    "addons": [],
+    "config":
+    {
+      "browser.newtabpage.activity-stream.impressionId": "",
+      "browser.newtabpage.activity-stream.telemetry": false,
+      "browser.newtabpage.activity-stream.telemetry.ping.endpoint": "",
+      "browser.newtabpage.activity-stream.telemetry.ut.events": false,
+      "browser.newtabpage.activity-stream.prerender": false
+    }
+  }
+]
